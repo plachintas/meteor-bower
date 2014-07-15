@@ -14,7 +14,7 @@ Package._transitional_registerBuildPlugin({
     "plugin/handler.js",
   ],
   npmDependencies: {
-    "bower": "1.3.3",
+    "bower": "1.3.8",
     "glob": "3.2.9"
   }
 });
